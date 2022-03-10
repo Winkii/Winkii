@@ -1,6 +1,6 @@
 
 ## About Me 
-<a><img align="right" width="200" height="200" src="https://github.com/Winkii/Winkii/blob/main/img/profile.png"></a>
+<a><img align="right" width="250" height="250" src="https://github.com/Winkii/Winkii/blob/main/img/profile.png"></a>
 
 Hi there 👋👋, my name is Winkii and I'm a French Network Engineer. I love coding with a cup of coffee in my spare time !
 
@@ -13,7 +13,7 @@ Hi there 👋👋, my name is Winkii and I'm a French Network Engineer. I love c
 - My favorite dish: Pizza 🍕
 
 If you want to support me, thank you ! 
-<a href="https://ko-fi.com/G2G2BJ2E7"><img align="right" src="hhttps://ko-fi.com/img/githubbutton_sm.svg"></a>
+<a href="https://ko-fi.com/G2G2BJ2E7"><img align="right" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
 <!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G2BJ2E7)-->
 <br>
 

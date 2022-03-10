@@ -1,6 +1,6 @@
 
 ## About Me 
-<a><img align="right" width="250" height="250" src="https://github.com/Winkii/Winkii/blob/main/img/profile.png"></a>
+<a><img align="right" width="200" height="200" src="https://github.com/Winkii/Winkii/blob/main/img/profile.png"></a>
 
 Hi there 👋👋, my name is Winkii and I'm a French Network Engineer. I love coding with a cup of coffee in my spare time !
 

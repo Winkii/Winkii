@@ -1,8 +1,15 @@
-### Hi there 👋
+### Hi there 
 
 
-<img src="https://github.com/Winkii/Winkii/blob/main/img/profile.png" alt="Profile" width="200"/>
+<img src="https://github.com/Winkii/Winkii/blob/main/img/profile.png" alt="Profile" width="250"/>
+<table border="0">
 
+ <tr>
+    <td>Hi there 👋👋, my name is Winkii and I'm a French Network Engineer. I love coding with a cup of coffee in my spare time !
+ </td>
+    <td><img src="https://github.com/Winkii/Winkii/blob/main/img/profile.png" alt="Profile" width="250"/></td>
+ </tr>
+</table>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Winkii&langs_count=8&bg_color=0,26A641,1F6FEB&title_color=fff&text_color=fff)](https://github.com/Winkii/github-readme-stats)
 

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src="[drawing.jpg](https://github.com/Winkii/Winkii/blob/main/img/profile.png)" alt="drawing" width="200"/>
+<img src="https://github.com/Winkii/Winkii/blob/main/img/profile.png)" alt="Profile" width="200"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Winkii&langs_count=8&bg_color=0,26A641,1F6FEB&title_color=fff&text_color=fff)](https://github.com/Winkii/github-readme-stats)

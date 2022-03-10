@@ -1,14 +1,23 @@
 
 ## About Me 
-<img align="right" width="200" height="200" src="https://github.com/Winkii/Winkii/blob/main/img/profile.png"></a>
-### Some Fun Facts about me:
+<a><img align="right" width="200" height="200" src="https://github.com/Winkii/Winkii/blob/main/img/profile.png"></a>
+
 Hi there 👋👋, my name is Winkii and I'm a French Network Engineer. I love coding with a cup of coffee in my spare time !
 
-<br><br>
+- My favorite programming language: Python 💻
 
+- My favorite sport: Running 🏃
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Winkii&langs_count=8&bg_color=0,26A641,1F6FEB&title_color=fff&text_color=fff)](https://github.com/Winkii/github-readme-stats)
+- My favorite drink: Beer 🍺
 
+- My favorite dish: Pizza 🍕
+
+If you want to support me, thank you !<br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G2BJ2E7)
+<br>
+
+## Some Github Facts 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winkii&layout=compact&bg_color=0,26A641,1F6FEB&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Winkii/Winkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

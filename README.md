@@ -1,6 +1,3 @@
-### Hi there 
-
-
 <img src="https://github.com/Winkii/Winkii/blob/main/img/profile.png" alt="Profile" width="250"/>
 <table border="0">
 
@@ -10,6 +7,19 @@
     <td><img src="https://github.com/Winkii/Winkii/blob/main/img/profile.png" alt="Profile" width="250"/></td>
  </tr>
 </table>
+# Rule 1
+Description for rule 1.
+
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <h2>Good</h2>
+        <pre><code class="language-c">int foo (void) 
+{
+    int i;
+}
+</code></pre>
+    </div>
+    
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Winkii&langs_count=8&bg_color=0,26A641,1F6FEB&title_color=fff&text_color=fff)](https://github.com/Winkii/github-readme-stats)
 

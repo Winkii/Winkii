@@ -12,8 +12,9 @@ Hi there 👋👋, my name is Winkii and I'm a French Network Engineer. I love c
 
 - My favorite dish: Pizza 🍕
 
-If you want to support me, thank you !<br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G2BJ2E7)
+If you want to support me, thank you ! 
+<a href="https://ko-fi.com/G2G2BJ2E7"><img align="right" src="hhttps://ko-fi.com/img/githubbutton_sm.svg"></a>
+<!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G2BJ2E7)-->
 <br>
 
 ## Some Github Facts 
